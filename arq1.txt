@@ -1,3 +1,7 @@
 Teste de edição do primeiro arquivo.
 Entendendo o HEAD
+<<<<<<< HEAD
 Esta linha foi modiificada no ramo master
+=======
+Esta linha foi modificada no ramo teste
+>>>>>>> teste
