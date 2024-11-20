@@ -1,2 +1,3 @@
 Teste de edição do primeiro arquivo.
 Entendendo o HEAD
+Esta linha foi modiificada no ramo master
